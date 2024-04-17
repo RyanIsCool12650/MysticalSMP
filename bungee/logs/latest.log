@@ -76,3 +76,25 @@
 [23:07:51] [Netty Worker IO Thread #2/WARN]: Error occurred processing connection for ThunderGod12650 AnnotatedConnectException : finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
 [23:07:51] [Netty Worker IO Thread #2/INFO]: [ThunderGod12650] disconnected with: Could not connect to a default or fallback server. Incorrectly configured address/port/firewall? 
 [23:07:51] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:44208|ThunderGod12650] -> UpstreamBridge has disconnected
+[23:09:11] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57778]: Connected via websocket
+[23:09:11] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57778]: Origin header is null
+[23:09:12] [Netty Worker IO Thread #3/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:57778]: Logged in as 'ThunderGod12650'
+[23:09:12] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57778|ThunderGod12650] -> UpstreamBridge has connected
+[23:09:12] [Netty Worker IO Thread #3/INFO]: [ThunderGod12650|/[0:0:0:0:0:0:0:1%0]:57778] <-> ServerConnector [lobby] has connected
+[23:11:44] [Netty Worker IO Thread #3/INFO]: [ThunderGod12650] disconnected with: You are banned from this server.
+[23:11:44] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57778|ThunderGod12650] -> UpstreamBridge has disconnected
+[23:11:44] [Netty Worker IO Thread #3/INFO]: [/[0:0:0:0:0:0:0:1%0]:57778|ThunderGod12650] <-> DownstreamBridge <-> [lobby] has disconnected
+[23:11:47] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56572]: Connected via websocket
+[23:11:47] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56572]: Origin header is null
+[23:11:47] [Netty Worker IO Thread #4/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:56572]: Logged in as 'ThunderGod12650'
+[23:11:47] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:56572|ThunderGod12650] -> UpstreamBridge has connected
+[23:11:47] [Netty Worker IO Thread #4/INFO]: [ThunderGod12650|/[0:0:0:0:0:0:0:1%0]:56572] <-> ServerConnector [lobby] has connected
+[23:11:47] [Netty Worker IO Thread #4/INFO]: [ThunderGod12650] disconnected with: Kicked whilst connecting to lobby: You are banned from this server!
+Reason: Banned by an operator.
+[23:11:47] [Netty Worker IO Thread #4/INFO]: [/[0:0:0:0:0:0:0:1%0]:56572|ThunderGod12650] -> UpstreamBridge has disconnected
+[23:11:47] [Netty Worker IO Thread #4/INFO]: [ThunderGod12650|/[0:0:0:0:0:0:0:1%0]:56572] <-> ServerConnector [lobby] has disconnected
+[23:12:02] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38336]: Connected via websocket
+[23:12:02] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38336]: Origin header is null
+[23:12:02] [Netty Worker IO Thread #5/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:38336]: Logged in as 'ThunderGod12650'
+[23:12:02] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:38336|ThunderGod12650] -> UpstreamBridge has connected
+[23:12:02] [Netty Worker IO Thread #5/INFO]: [ThunderGod12650|/[0:0:0:0:0:0:0:1%0]:38336] <-> ServerConnector [lobby] has connected
